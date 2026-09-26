@@ -1,4 +1,7 @@
-![Logo Cahka]([https://lien-de-votre-image.com/logo.png](https://image.noelshack.com/fichiers/2026/39/6/1790421074-appicon.png))
+<div align="center">
+  <img src="[https://votre-site-d-hebergement.com/votre-logo.png](https://image.noelshack.com/fichiers/2026/39/6/1790421074-appicon.png)" alt="Logo Cahka" width="128"/>
+  <h1>Cahka</h1>
+</div>
 
 Cahka est une interface graphique (GUI) macOS pour `yt-dlp` et `ffmpeg`. Elle permet de télécharger des médias et de les importer directement dans un projet de montage, sans avoir à utiliser le terminal.
 
