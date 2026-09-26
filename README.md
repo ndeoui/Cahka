@@ -6,7 +6,7 @@ Cahka est une interface graphique (GUI) macOS pour `yt-dlp` et `ffmpeg`. Elle pe
 
 * Téléchargement de vidéos (de la 4K à la 720p) et extraction audio (MP3).
 * Définition d'un dossier de destination personnalisé.
-* Importation automatique du fichier téléchargé dans l'onglet "Projet" d'Adobe Premiere Pro.
+* Importation avec un simple bouton du fichier téléchargé dans l'onglet "Projet" d'Adobe Premiere Pro.
 
 ## Installation
 
