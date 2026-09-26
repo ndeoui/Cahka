@@ -28,3 +28,8 @@ L'application est autonome et intègre directement les outils nécessaires sous 
 * **ffmpeg** : pour l'assemblage (multiplexage) des formats haute résolution et l'encodage MP3.
 
 *Note : Pour que l'importation directe fonctionne, Adobe Premiere Pro doit être en cours d'exécution sur votre machine.*
+
+---
+
+**À propos de ce projet**
+L'intégralité de cette application (code, interface et documentation) a été conçue et développée de A à Z par Intelligence Artificielle.
