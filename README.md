@@ -19,7 +19,7 @@ Cahka est compatible uniquement avec macOS.
 |---------|-------------|
 | `Cahka.zip` | Application macOS (Compatible Apple Silicon & Intel). |
 
-1. Téléchargez la dernière version dans l'onglet [Releases]([https://github.com/ndeoui/Cahka/releases]).
+1. Téléchargez la dernière version dans l'onglet [Releases](https://github.com/ndeoui/Cahka/releases).
 2. Décompressez l'archive téléchargée.
 3. Déplacez le fichier `Cahka.app` dans votre dossier **Applications**.
 
